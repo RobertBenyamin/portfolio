@@ -3,7 +3,7 @@ import profile from "../profile.png";
 
 const About = () => {
   return (
-    <section id="about" className="text-white py-20 px-16">
+    <section id="about" className="text-white py-8 px-16">
       <div className="flex flex-row flex-wrap justify-between">
         <div className="flex flex-col">
           <p className="text-xl">Hi, my names is</p>
