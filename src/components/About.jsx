@@ -4,7 +4,7 @@ import profile from "../images/profile.png";
 const About = () => {
   return (
     <section id="about" className="text-white py-8 px-16">
-      <div className="flex flex-row flex-wrap justify-between">
+      <div className="container mx-auto flex flex-row flex-wrap justify-between">
         <div className="flex flex-col">
           <p className="text-xl">Hi, my names is</p>
           <h2 className="text-6xl font-bold mb-6">Robert Benyamin</h2>
@@ -29,7 +29,7 @@ const About = () => {
             </a>
           </div>
         </div>
-        <div className="flex flex-col justify-center items-center mx-auto">
+        <div className="flex flex-col justify-center items-center">
           <img src={profile} alt="profile" />
         </div>
       </div>
