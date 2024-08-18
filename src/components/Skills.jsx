@@ -137,7 +137,7 @@ const skills = [
 
 const Skills = () => {
   return (
-    <section id="skills" className="text-white py-8">
+    <section id="skills" className="text-white py-8 px-4 md:px-16">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold mb-6">Technologies that I use:</h2>
         <ul className="flex flex-wrap sm:grid sm:grid-cols-2 lg:grid-cols-4 gap-4 items-center">
