@@ -32,7 +32,7 @@ const projects = [
   {
     name: "NaviGo",
     image:
-      "https://raw.githubusercontent.com/RobertBenyamin/portfolio/main/src/images/navigo.png",
+      "https://raw.githubusercontent.com/RobertBenyamin/portfolio/refs/heads/main/src/images/navigo.png",
     deploy: "https://navigo-web-drab.vercel.app/",
     github: "https://github.com/navigo-gemastik/navigo-web",
   },
