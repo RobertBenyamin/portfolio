@@ -25,7 +25,7 @@ const About = () => {
               Checkout My Work!
             </a>
             <a
-              href="https://drive.google.com/file/d/1-Bl4iL-WQLjEwriCJG3_-Utz_ERwpFSS/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Jqo2Qyc2z8aHZ2SCOGSbFT2wLip_E0ad/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="hover:bg-gray-700 text-white font-semibold text-center px-6 py-3 text-lg rounded-lg"
